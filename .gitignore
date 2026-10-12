@@ -7,3 +7,7 @@ dist
 __pycache__
 # Package README is generated from the top-level README.md at build time
 air_llm/README.md
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
